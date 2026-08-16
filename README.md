@@ -29,7 +29,7 @@
 | **GenAI** | RAG • LangChain • Prompt Engineering |
 | **Web** | HTML • CSS • JavaScript • React |
 | **Backend** | Python • Flask |
-| **Database / Tools** | MySQL • Git • GitHub |
+| **Database / Tools** | MySQL • PostgreSQL • Git • GitHub |
 
 ---
 
