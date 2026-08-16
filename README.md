@@ -65,7 +65,6 @@
 | 📄 **Offline Resume Screening** | Uses NLP and semantic similarity to compare resumes with job requirements locally. |
 | 🤝 **AI Meeting Action Tracker** | Extracts meeting action items and important information using Generative AI. |
 | 🗃️ **AI SQL Generator** | Converts natural-language questions into SQL queries using AI. |
-| 🧠 **RAG & LLM Applications** | Experiments with Retrieval-Augmented Generation and LLM-powered applications. |
 
 ---
 
