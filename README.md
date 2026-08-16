@@ -1,61 +1,49 @@
+<!-- ========================================================= -->
+<!--                 S. J. SHREYA - GITHUB                     -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-<img src="./github-banner.jpg" width="100%" alt="S. J. Shreya - GitHub Banner"/>
+<img src="github-banner.jpg" width="100%" alt="S. J. Shreya GitHub Banner">
 
-<br><br>
+</div>
 
-<h3>
-💙 Always learning • building • improving
-</h3>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=Shreya22062004&label=PROFILE+VIEWS&color=00D9FF&style=flat-square" alt="Profile Views"/>
+<div align="center">
+
+### `Always learning • building • improving`
 
 </div>
 
 ---
 
-<table width="100%" bgcolor="#061B2E">
+<table width="100%">
 <tr>
 
-<td width="65%" valign="middle">
+<td width="65%" valign="top">
 
-<h2 style="color:#00D9FF;">👩‍💻 About Me</h2>
+## 👋 About Me
 
-<p style="color:white;">
-
-🎓 Computer Science & Engineering student at <b>KIIT</b><br><br>
-
-🤖 Interested in <b>Generative AI, Machine Learning, RAG & LLMs</b><br><br>
-
-💻 Experienced with <b>Python, Java and Full-Stack Development</b><br><br>
-
-🚀 Passionate about building practical, intelligent and user-focused applications<br><br>
-
-📚 Always learning new technologies and improving my problem-solving skills
-
-</p>
+- 🎓 Computer Science & Engineering student at **KIIT**
+- 🤖 Interested in **Generative AI, Machine Learning & NLP**
+- 💻 Experienced with **Python, AI/ML and Full-Stack Development**
+- 🧠 Building practical, intelligent and user-focused applications
+- 🚀 Exploring **LLMs, RAG, LangChain and AI-powered systems**
 
 </td>
 
-<td width="35%" align="center">
+<td width="35%" align="center" valign="middle">
 
-<img src="./profile.jpg" width="220" alt="S. J. Shreya"/>
-
-<br><br>
-
-<font color="#00D9FF">
-
-<b>S. J. Shreya</b>
-
-</font>
+<img src="profile.jpg" width="220" alt="S. J. Shreya">
 
 <br>
 
-<font color="white">
+**S. J. Shreya**
 
-AI • ML • Full-Stack
+<br>
 
-</font>
+`AI • ML • Full-Stack`
 
 </td>
 
@@ -68,39 +56,27 @@ AI • ML • Full-Stack
 
 <div align="center">
 
-### 💻 Programming Languages
+**Languages**
 
-<img src="https://img.shields.io/badge/Python-061B2E?style=for-the-badge&logo=python&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Java-061B2E?style=for-the-badge&logo=openjdk&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/C-061B2E?style=for-the-badge&logo=c&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/JavaScript-061B2E?style=for-the-badge&logo=javascript&logoColor=00D9FF"/>
+![Python](https://img.shields.io/badge/Python-071E33?style=for-the-badge&logo=python&logoColor=00E5FF)
+![Java](https://img.shields.io/badge/Java-071E33?style=for-the-badge&logo=openjdk&logoColor=00E5FF)
+![C](https://img.shields.io/badge/C-071E33?style=for-the-badge&logo=c&logoColor=00E5FF)
 
-<br><br>
+**AI / Machine Learning**
 
-### 🤖 AI • Machine Learning • Generative AI
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-071E33?style=for-the-badge&logo=scikitlearn&logoColor=00E5FF)
+![Generative AI](https://img.shields.io/badge/Generative_AI-071E33?style=for-the-badge&logo=openai&logoColor=00E5FF)
+![NLP](https://img.shields.io/badge/NLP-071E33?style=for-the-badge&logo=googletranslate&logoColor=00E5FF)
+![LangChain](https://img.shields.io/badge/LangChain-071E33?style=for-the-badge&logo=chainlink&logoColor=00E5FF)
 
-<img src="https://img.shields.io/badge/Machine%20Learning-061B2E?style=for-the-badge&logo=scikitlearn&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Generative%20AI-061B2E?style=for-the-badge&logo=openai&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/LLM-061B2E?style=for-the-badge&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/RAG-061B2E?style=for-the-badge&logoColor=00D9FF"/>
+**Web / Database / Tools**
 
-<br><br>
-
-### 🌐 Web Development
-
-<img src="https://img.shields.io/badge/HTML5-061B2E?style=for-the-badge&logo=html5&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/CSS3-061B2E?style=for-the-badge&logo=css3&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/JavaScript-061B2E?style=for-the-badge&logo=javascript&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/React-061B2E?style=for-the-badge&logo=react&logoColor=00D9FF"/>
-
-<br><br>
-
-### 🗄️ Database • Tools
-
-<img src="https://img.shields.io/badge/MySQL-061B2E?style=for-the-badge&logo=mysql&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Git-061B2E?style=for-the-badge&logo=git&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/GitHub-061B2E?style=for-the-badge&logo=github&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/VS%20Code-061B2E?style=for-the-badge&logo=visualstudiocode&logoColor=00D9FF"/>
+![HTML](https://img.shields.io/badge/HTML-071E33?style=for-the-badge&logo=html5&logoColor=00E5FF)
+![CSS](https://img.shields.io/badge/CSS-071E33?style=for-the-badge&logo=css3&logoColor=00E5FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-071E33?style=for-the-badge&logo=javascript&logoColor=00E5FF)
+![SQL](https://img.shields.io/badge/SQL-071E33?style=for-the-badge&logo=mysql&logoColor=00E5FF)
+![Git](https://img.shields.io/badge/Git-071E33?style=for-the-badge&logo=git&logoColor=00E5FF)
+![GitHub](https://img.shields.io/badge/GitHub-071E33?style=for-the-badge&logo=github&logoColor=00E5FF)
 
 </div>
 
@@ -109,59 +85,31 @@ AI • ML • Full-Stack
 ## 💼 Experience
 
 <table width="100%">
-
 <tr>
-
 <td width="50%" valign="top">
 
-<h3>🤖 Generative AI Intern</h3>
+### 🤖 Generative AI Intern
+**Tata Consultancy Services (TCS)**
 
-<b>Tata Consultancy Services (TCS)</b>
-
-<br><br>
-
-• Worked with <b>Generative AI</b> concepts and applications
-
-<br><br>
-
-• Explored <b>LLMs, RAG and LangChain</b>
-
-<br><br>
-
-• Worked with <b>Python</b> and AI-based application workflows
-
-<br><br>
-
-• Gained practical exposure to applying Generative AI to real-world problems
+- Worked with Generative AI concepts and applications
+- Explored **LLMs, RAG and LangChain**
+- Developed Python-based AI application workflows
+- Gained practical exposure to Generative AI use cases
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>🧠 PAC Advisory</h3>
+### 📊 Advisory Launchpad Program
+**PwC Advisory**
 
-<b>Advisory Launchpad Program</b>
-
-<br><br>
-
-• Explored concepts related to <b>Data Engineering</b>
-
-<br><br>
-
-• Learned about <b>Modern Data Systems</b>
-
-<br><br>
-
-• Strengthened practical knowledge of <b>Python</b>
-
-<br><br>
-
-• Explored applications of <b>Generative AI</b>
+- Explored concepts related to **Data Engineering**
+- Learned about modern data systems
+- Strengthened practical Python knowledge
+- Explored applications of Generative AI
 
 </td>
-
 </tr>
-
 </table>
 
 ---
@@ -169,30 +117,23 @@ AI • ML • Full-Stack
 ## 🚀 Featured Projects
 
 <table width="100%">
-
 <tr>
 
 <td width="50%" valign="top">
 
-<h3>🔎 Fake Information Detection</h3>
+### 🛡️ Fake Information Detection
+AI/ML system for identifying potentially false or misleading information using NLP and machine learning techniques.
 
-An AI/ML-based project designed to identify potentially false or misleading information using NLP and machine learning techniques.
-
-<br>
-
-<b>Focus:</b> NLP • Machine Learning • Python
+**Focus:** NLP • Machine Learning • Python
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>⌨️ Stress Detection via Typing</h3>
+### ⌨️ Stress Detection via Typing
+Analyzes typing behavior and patterns to identify indicators associated with stress.
 
-Analyzes typing behaviour and patterns to identify indicators associated with stress.
-
-<br>
-
-<b>Focus:</b> Machine Learning • Behaviour Analysis • Python
+**Focus:** Machine Learning • Behavioral Analysis • Python
 
 </td>
 
@@ -202,25 +143,19 @@ Analyzes typing behaviour and patterns to identify indicators associated with st
 
 <td width="50%" valign="top">
 
-<h3>🧠 Offline Resume Screening</h3>
+### 📄 Offline Resume Screening
+Offline resume-screening system that compares resumes with job requirements using semantic similarity.
 
-An offline resume screening system that uses NLP and semantic similarity to compare resumes with job requirements.
-
-<br>
-
-<b>Focus:</b> NLP • Sentence Transformers • Semantic Similarity
+**Focus:** NLP • Sentence Transformers • Semantic Similarity
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>💬 AI Meeting Action Tracker</h3>
+### 🤖 AI Meeting Action Tracker
+AI-powered application designed to identify important actions and tasks from meeting discussions.
 
-An AI-powered application designed to identify important action items and tasks from meeting discussions.
-
-<br>
-
-<b>Focus:</b> Generative AI • NLP • LLMs
+**Focus:** Generative AI • NLP • LLMs
 
 </td>
 
@@ -230,121 +165,92 @@ An AI-powered application designed to identify important action items and tasks 
 
 <td width="50%" valign="top">
 
-<h3>🗃️ AI SQL Generator</h3>
+### 🗄️ AI SQL Generator
+Converts natural-language queries into SQL queries, helping users interact with databases more easily.
 
-Converts natural-language questions into SQL queries, helping users interact with databases using natural language.
-
-<br>
-
-<b>Focus:</b> Generative AI • SQL • NLP
+**Focus:** Generative AI • SQL • NLP
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>🤖 RAG & LLM Applications</h3>
+### 🔎 RAG & LLM Applications
+Exploring Retrieval-Augmented Generation and Large Language Models for intelligent applications.
 
-Exploring practical applications of Retrieval-Augmented Generation and Large Language Models for intelligent applications.
-
-<br>
-
-<b>Focus:</b> RAG • LLM • Generative AI
+**Focus:** RAG • LLMs • Generative AI
 
 </td>
 
 </tr>
-
 </table>
 
 ---
 
-## 🎯 Current Focus
+## 📜 Certifications
 
-<div align="center">
-
-<table>
-
+<table width="100%">
 <tr>
 
-<td align="center">
+<td width="50%" valign="top">
 
-🤖<br>
-<b>Generative AI</b>
+**Prompt Engineering for ChatGPT**  
+Vanderbilt University
 
-</td>
+**Generative AI: Prompt Engineering Basics**  
+IBM
 
-<td align="center">
+**Generative AI: Introduction and Applications**  
+IBM
 
-🧠<br>
-<b>Machine Learning</b>
-
-</td>
-
-<td align="center">
-
-🔎<br>
-<b>NLP</b>
+**IBM DevOps and Software Engineering**  
+IBM
 
 </td>
 
-<td align="center">
+<td width="50%" valign="top">
 
-📚<br>
-<b>RAG & LLMs</b>
+**Corporate Governance**  
+Coursera
 
-</td>
+**Business for Good: Fundamentals of Corporate Responsibility**  
+London Business School
 
-<td align="center">
-
-💻<br>
-<b>Full-Stack</b>
+**Ethical Decision Making for Success in the Tech Industry**  
+University of Colorado Boulder
 
 </td>
 
 </tr>
-
 </table>
-
-</div>
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://sjshreya-portfolio.netlify.app/">
-
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-00D9FF?style=for-the-badge&labelColor=061B2E"/>
-
+<img src="https://img.shields.io/badge/Portfolio-071E33?style=for-the-badge&logo=googlechrome&logoColor=00E5FF">
 </a>
 
 <a href="https://www.linkedin.com/in/s-j-shreya-5a67b8280/">
-
-<img src="https://img.shields.io/badge/LINKEDIN-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=061B2E"/>
-
+<img src="https://img.shields.io/badge/LinkedIn-071E33?style=for-the-badge&logo=linkedin&logoColor=00E5FF">
 </a>
 
 <a href="mailto:sjshreya105@gmail.com">
-
-<img src="https://img.shields.io/badge/EMAIL-00D9FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=061B2E"/>
-
+<img src="https://img.shields.io/badge/Email-071E33?style=for-the-badge&logo=gmail&logoColor=00E5FF">
 </a>
 
 <a href="https://github.com/Shreya22062004">
-
-<img src="https://img.shields.io/badge/GITHUB-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=061B2E"/>
-
+<img src="https://img.shields.io/badge/GitHub-071E33?style=for-the-badge&logo=github&logoColor=00E5FF">
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<h3>💙 Building today for a smarter tomorrow.</h3>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=061B2E&height=100&section=footer"/>
+💙 **Building today for a smarter tomorrow.**
 
 </div>
