@@ -78,6 +78,10 @@
 ## 🔗 Connect With Me
 
 <p align="center">
+  
+<a href="https://sjshreya-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-071E33?style=for-the-badge&logo=googlechrome&logoColor=00E5FF">
+</a>
 
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
