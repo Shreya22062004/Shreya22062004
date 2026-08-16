@@ -1,282 +1,350 @@
 <div align="center">
 
-<img src="./github-banner.jpg" width="100%" alt="S. J. Shreya GitHub banner" />
+<img src="./github-banner.jpg" width="100%" alt="S. J. Shreya - GitHub Banner"/>
 
-<br/>
+<br><br>
 
-<a href="https://readme-typing-svg.demolab.com/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=900&color=00EEFF&center=true&vCenter=true&width=760&lines=Generative+AI+%7C+Machine+Learning+%7C+Full-Stack+Development;Building+AI-powered+and+user-focused+applications;Python+%7C+JavaScript+%7C+React+%7C+FastAPI;Always+learning%2C+building+and+improving+%F0%9F%9A%80" alt="Typing animation" />
-</a>
+<h3>
+💙 Always learning • building • improving
+</h3>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Shreya22062004&label=PROFILE%20VIEWS&color=00eeff&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Shreya22062004?label=FOLLOWERS&style=for-the-badge&color=00a9c0" />
-<img src="https://img.shields.io/github/stars/Shreya22062004?label=STARS&style=for-the-badge&color=00eeff" />
-
-<br/><br/>
-
-<a href="https://sjshreya-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-001B29?style=for-the-badge&logo=googlechrome&logoColor=00EEFF" /></a>
-<a href="https://www.linkedin.com/in/s-j-shreya-5a67b8280/"><img src="https://img.shields.io/badge/LinkedIn-001B29?style=for-the-badge&logo=linkedin&logoColor=00EEFF" /></a>
-<a href="mailto:sjshreya105@gmail.com"><img src="https://img.shields.io/badge/Email-001B29?style=for-the-badge&logo=gmail&logoColor=00EEFF" /></a>
-<a href="https://github.com/Shreya22062004"><img src="https://img.shields.io/badge/GitHub-001B29?style=for-the-badge&logo=github&logoColor=00EEFF" /></a>
+<img src="https://komarev.com/ghpvc/?username=Shreya22062004&label=PROFILE+VIEWS&color=00D9FF&style=flat-square" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+<table width="100%" bgcolor="#061B2E">
+<tr>
 
-I am **S. J. Shreya**, a Computer Science & Engineering student at **KIIT University**, expected to graduate in **2027**.
+<td width="65%" valign="middle">
 
-I enjoy building practical applications at the intersection of **Generative AI, Machine Learning and Full-Stack Development**. My portfolio includes AI-powered systems, responsive web applications, Android applications and database-driven projects.
+<h2 style="color:#00D9FF;">👩‍💻 About Me</h2>
 
-### 🎯 What I Work With
+<p style="color:white;">
 
-- 🤖 **Generative AI:** RAG, NLP, semantic search, vector embeddings, prompt engineering
-- 🧠 **Machine Learning:** CNN, MobileNetV2, XGBoost, model evaluation and preprocessing
-- 🌐 **Full-Stack:** React, JavaScript, HTML, CSS, Node.js, FastAPI
-- 🗄️ **Databases:** PostgreSQL, SQL and Firebase
-- 🛠️ **Tools:** Git, GitHub, VS Code, Streamlit, LangChain
-- 📱 **Android:** Kotlin and Java
+🎓 Computer Science & Engineering student at <b>KIIT</b><br><br>
 
----
+🤖 Interested in <b>Generative AI, Machine Learning, RAG & LLMs</b><br><br>
 
-## 🧰 Tech Stack
+💻 Experienced with <b>Python, Java and Full-Stack Development</b><br><br>
 
-### Programming & Web
+🚀 Passionate about building practical, intelligent and user-focused applications<br><br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,kotlin,js,html,css,react,nodejs" />
+📚 Always learning new technologies and improving my problem-solving skills
+
 </p>
 
-### AI / ML & Backend
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi,postgresql,mysql,firebase" />
-</p>
+<td width="35%" align="center">
 
-### Tools & Development
+<img src="./profile.jpg" width="220" alt="S. J. Shreya"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
-</p>
+<br><br>
 
----
+<font color="#00D9FF">
 
-## 🚀 Featured Projects
+<b>S. J. Shreya</b>
 
-<table>
-<tr>
-<td width="50%">
+</font>
 
-### 🏫 Attendora
-**School Management & Attendance System**
+<br>
 
-Full-stack school management platform for attendance, student management, ID-card generation, reports, role-based access, Excel imports and PDF/Excel exports.
+<font color="white">
 
-`React` `Node.js` `PostgreSQL`
+AI • ML • Full-Stack
 
-[🔗 GitHub](https://github.com/Shreya22062004/Attendora-School-Management-System) · [🌐 Live](https://attendora-school-management-system.vercel.app/)
+</font>
 
 </td>
-<td width="50%">
 
-### 🧠 Hair Health Analysis
-
-Deep-learning image classification system using **MobileNetV2 transfer learning**, preprocessing and augmentation, achieving **96.66% accuracy**.
-
-`Python` `CNN` `MobileNetV2`
-
-[🔗 GitHub](https://github.com/Shreya22062004/Intelligent-Hair-Analysis-Personalized-Recommendation-System)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📈 Stock Prediction — QuantAgent
-
-ML-powered prediction platform using technical indicators and XGBoost to generate **BUY / SELL / HOLD** signals with dashboard visualizations.
-
-`Python` `JavaScript` `XGBoost`
-
-[🔗 GitHub](https://github.com/Shreya22062004/Stock-Prediction-Website-Using-QuantAgent-)
-
-</td>
-<td width="50%">
-
-### 🎮 Split or Steal AI Game
-
-Interactive game-theory simulation where users compete against AI strategies with analytics and decision tracking.
-
-`React` `JavaScript` `Firebase`
-
-[🔗 GitHub](https://github.com/Shreya22062004/Steal-and-Split-Game-) · [🌐 Live](https://steal-and-split.netlify.app/)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📅 Student-Teacher Booking System
-
-Role-based appointment scheduling system for students, teachers and admins with authentication and real-time updates.
-
-`HTML` `CSS` `JavaScript` `Firebase`
-
-[🔗 GitHub](https://github.com/Shreya22062004/StudyBuddy-Scheduler) · [🌐 Live](https://sjshreya-studybuddy-scheduler.netlify.app/)
-
-</td>
-<td width="50%">
-
-### 🎵 Melody Maker
-
-Responsive music-streaming application with playlists, song discovery and interactive playback controls.
-
-`HTML` `CSS` `JavaScript`
-
-[🔗 GitHub](https://github.com/Shreya22062004/Melody-Maker) · [🌐 Live](https://sjshreya-melody-maker.netlify.app/)
-
-</td>
 </tr>
 </table>
 
-<details>
-<summary><b>✨ More Projects</b></summary>
-<br/>
+---
 
-- 🍽️ [Catering Genie](https://github.com/Shreya22062004/Catering-Genie) — responsive catering service platform
-- 🃏 [MindMatch Mania](https://github.com/Shreya22062004/MindMatch-Mania) — animated memory card game
-- 📄 [Resume Website](https://github.com/Shreya22062004/RESUME) — responsive professional resume website
-- 🍲 [Recipe Haven](https://github.com/Shreya22062004/Recipe-Haven) — recipe discovery and sharing website
-- 👥 [Contact Cards](https://github.com/Shreya22062004/Contact-Cards) — React contact management application
-- 👗 [Style Hub](https://github.com/Shreya22062004/Style-Hub) — responsive e-commerce website
-- 💰 [Expense Tracker](https://github.com/Shreya22062004/Expense-Tracker) — income, expense and budget tracker
-- ✅ [Planora](https://github.com/Shreya22062004/Planora) — productivity and to-do application
-- 🧮 [Calculator](https://github.com/Shreya22062004/Calculator) — Android calculator application
-- 📝 [Notepad](https://github.com/Shreya22062004/NotePad) — Android notes application
-- 📰 [NewsBreak](https://github.com/Shreya22062004/NewsBreak) — Android news reader
-- 💬 [Sentiment Analysis](https://github.com/Shreya22062004/SentimentAnalysis) — Python ML sentiment model
+## 🛠️ Tech Stack
 
-</details>
+<div align="center">
+
+### 💻 Programming Languages
+
+<img src="https://img.shields.io/badge/Python-061B2E?style=for-the-badge&logo=python&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/Java-061B2E?style=for-the-badge&logo=openjdk&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/C-061B2E?style=for-the-badge&logo=c&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/JavaScript-061B2E?style=for-the-badge&logo=javascript&logoColor=00D9FF"/>
+
+<br><br>
+
+### 🤖 AI • Machine Learning • Generative AI
+
+<img src="https://img.shields.io/badge/Machine%20Learning-061B2E?style=for-the-badge&logo=scikitlearn&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/Generative%20AI-061B2E?style=for-the-badge&logo=openai&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/LLM-061B2E?style=for-the-badge&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/RAG-061B2E?style=for-the-badge&logoColor=00D9FF"/>
+
+<br><br>
+
+### 🌐 Web Development
+
+<img src="https://img.shields.io/badge/HTML5-061B2E?style=for-the-badge&logo=html5&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/CSS3-061B2E?style=for-the-badge&logo=css3&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/JavaScript-061B2E?style=for-the-badge&logo=javascript&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/React-061B2E?style=for-the-badge&logo=react&logoColor=00D9FF"/>
+
+<br><br>
+
+### 🗄️ Database • Tools
+
+<img src="https://img.shields.io/badge/MySQL-061B2E?style=for-the-badge&logo=mysql&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/Git-061B2E?style=for-the-badge&logo=git&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/GitHub-061B2E?style=for-the-badge&logo=github&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/VS%20Code-061B2E?style=for-the-badge&logo=visualstudiocode&logoColor=00D9FF"/>
+
+</div>
 
 ---
 
 ## 💼 Experience
 
-| Role | Organization | Period | Focus |
-|---|---|---|---|
-| **PwC Advisory Launchpad Program** | PwC Acceleration Center India | Feb 2026 – Jul 2026 | Data Engineering, Modern Data Systems, GenAI, Prompt Engineering, AI Agents |
-| **Generative AI Intern** | Tata Consultancy Services (TCS) | Apr 2026 – Jun 2026 | Python, Streamlit, LangChain, PyTorch, FastAPI, RAG, NLP |
-| **Full Stack Web Developer Intern** | Unified Mentor | Jun 2025 – Dec 2025 | React.js, JavaScript, HTML, CSS, Full-Stack Development |
-| **HTML Developer Intern** | Innovate Solutions | Jun 2025 – Jul 2025 | HTML, CSS, JavaScript, Responsive Design, UI/UX |
-| **Artificial Intelligence Programmer** | Konnexions-KIIT | Mar 2024 – Present | Python, Artificial Intelligence, Machine Learning |
-| **App Developer** | GeeksforGeeks KIIT | Feb 2025 – Dec 2025 | Android Development, Kotlin, Java |
+<table width="100%">
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🤖 Generative AI Intern</h3>
+
+<b>Tata Consultancy Services (TCS)</b>
+
+<br><br>
+
+• Worked with <b>Generative AI</b> concepts and applications
+
+<br><br>
+
+• Explored <b>LLMs, RAG and LangChain</b>
+
+<br><br>
+
+• Worked with <b>Python</b> and AI-based application workflows
+
+<br><br>
+
+• Gained practical exposure to applying Generative AI to real-world problems
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🧠 PAC Advisory</h3>
+
+<b>Advisory Launchpad Program</b>
+
+<br><br>
+
+• Explored concepts related to <b>Data Engineering</b>
+
+<br><br>
+
+• Learned about <b>Modern Data Systems</b>
+
+<br><br>
+
+• Strengthened practical knowledge of <b>Python</b>
+
+<br><br>
+
+• Explored applications of <b>Generative AI</b>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## 🎓 Education
+## 🚀 Featured Projects
 
-**Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar**  
-Bachelor of Technology — Computer Science & Engineering  
-**Expected 2027**
+<table width="100%">
 
-**DAV Public School, Titilagarh, Odisha**  
-Senior Secondary School Examination — Science  
-**2022 · 80.2%**
+<tr>
 
-**St. Xavier's High School, Kantabanji, Odisha**  
-Secondary School Examination  
-**2020 · 91.4%**
+<td width="50%" valign="top">
 
----
+<h3>🔎 Fake Information Detection</h3>
 
-## 🏅 Certifications & Learning
+An AI/ML-based project designed to identify potentially false or misleading information using NLP and machine learning techniques.
 
-- 🏆 Generative AI Internship — **Tata Consultancy Services (TCS)**
-- 🟦 PwC **Advisory Launchpad Program**
-- 🤖 **Prompt Engineering for ChatGPT** — Vanderbilt University
-- 💡 **Generative AI: Prompt Engineering Basics** — IBM
-- 🧠 **Generative AI: Introduction and Applications** — IBM
-- ⚙️ **IBM DevOps and Software Engineering**
-- 📊 **Corporate Governance** — Coursera
-- 🌱 **Business for Good: Fundamentals of Corporate Responsibility** — London Business School
-- ⚖️ **Ethical Decision Making for Success in the Tech Industry** — University of Colorado Boulder
-- 🌐 **Full Stack Web Development Internship** — Unified Mentor
-- 🧠 **Google AI-ML Virtual Internship — Cohort 12**
-- 💻 **Full Stack Web Development** — Yhills
-- 📱 **Android Developer Virtual Internship** — EduSkills Foundation
-- ☕ **Java / C / Python Certifications** — SoloLearn
-- 🤖 **AI-ML Training & Internship** — Corizo
+<br>
 
----
+<b>Focus:</b> NLP • Machine Learning • Python
 
-## 📊 GitHub Analytics
+</td>
 
-<div align="center">
+<td width="50%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shreya22062004&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=001B29&title_color=00EEFF&icon_color=00EEFF&text_color=EDEDED" height="180" />
+<h3>⌨️ Stress Detection via Typing</h3>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya22062004&layout=compact&langs_count=8&hide_border=true&bg_color=001B29&title_color=00EEFF&text_color=EDEDED" height="180" />
+Analyzes typing behaviour and patterns to identify indicators associated with stress.
 
-<br/>
+<br>
 
-<img src="https://streak-stats.demolab.com/?user=Shreya22062004&hide_border=true&background=001B29&ring=00EEFF&fire=00EEFF&currStreakLabel=00EEFF&sideLabels=EDEDED&dates=9BDDE6&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%" />
+<b>Focus:</b> Machine Learning • Behaviour Analysis • Python
 
-</div>
+</td>
 
----
+</tr>
 
-## 📈 Contribution Activity
+<tr>
 
-<div align="center">
+<td width="50%" valign="top">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreya22062004&bg_color=001B29&color=00EEFF&line=00EEFF&point=FFFFFF&area=true&hide_border=true&custom_title=S.%20J.%20Shreya's%20Contribution%20Graph" width="95%" />
+<h3>🧠 Offline Resume Screening</h3>
 
-</div>
+An offline resume screening system that uses NLP and semantic similarity to compare resumes with job requirements.
 
----
+<br>
 
-## 🐍 Contribution Snake
+<b>Focus:</b> NLP • Sentence Transformers • Semantic Similarity
 
-<div align="center">
+</td>
 
-<img src="https://raw.githubusercontent.com/Shreya22062004/Shreya22062004/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub contribution snake" />
+<td width="50%" valign="top">
 
-</div>
+<h3>💬 AI Meeting Action Tracker</h3>
+
+An AI-powered application designed to identify important action items and tasks from meeting discussions.
+
+<br>
+
+<b>Focus:</b> Generative AI • NLP • LLMs
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🗃️ AI SQL Generator</h3>
+
+Converts natural-language questions into SQL queries, helping users interact with databases using natural language.
+
+<br>
+
+<b>Focus:</b> Generative AI • SQL • NLP
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🤖 RAG & LLM Applications</h3>
+
+Exploring practical applications of Retrieval-Augmented Generation and Large Language Models for intelligent applications.
+
+<br>
+
+<b>Focus:</b> RAG • LLM • Generative AI
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
 ## 🎯 Current Focus
 
-```text
-GENERATIVE AI     → RAG • NLP • Prompt Engineering • AI Applications
-MACHINE LEARNING  → CNN • XGBoost • Model Evaluation • Data Processing
-FULL-STACK        → React • JavaScript • FastAPI • Node.js • PostgreSQL
-ANDROID           → Kotlin • Java
-ENGINEERING       → Building practical, scalable and user-focused software
-```
-
----
-
-## 📫 Let's Connect
-
 <div align="center">
 
-<a href="https://sjshreya-portfolio.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-00EEFF?style=for-the-badge&logo=googlechrome&logoColor=001B29" /></a>
-<a href="https://www.linkedin.com/in/s-j-shreya-5a67b8280/"><img src="https://img.shields.io/badge/LINKEDIN-00C7E6?style=for-the-badge&logo=linkedin&logoColor=001B29" /></a>
-<a href="mailto:sjshreya105@gmail.com"><img src="https://img.shields.io/badge/EMAIL-00A9C0?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Shreya22062004"><img src="https://img.shields.io/badge/GITHUB-051129?style=for-the-badge&logo=github&logoColor=00EEFF" /></a>
+<table>
 
-<br/><br/>
+<tr>
 
-<i>"Building, learning and turning ideas into useful technology."</i>
+<td align="center">
+
+🤖<br>
+<b>Generative AI</b>
+
+</td>
+
+<td align="center">
+
+🧠<br>
+<b>Machine Learning</b>
+
+</td>
+
+<td align="center">
+
+🔎<br>
+<b>NLP</b>
+
+</td>
+
+<td align="center">
+
+📚<br>
+<b>RAG & LLMs</b>
+
+</td>
+
+<td align="center">
+
+💻<br>
+<b>Full-Stack</b>
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
-<br/>
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001B29,50:003A4D,100:00A9C0&height=120&section=footer" width="100%" />
+
+<a href="https://sjshreya-portfolio.netlify.app/">
+
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-00D9FF?style=for-the-badge&labelColor=061B2E"/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/s-j-shreya-5a67b8280/">
+
+<img src="https://img.shields.io/badge/LINKEDIN-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=061B2E"/>
+
+</a>
+
+<a href="mailto:sjshreya105@gmail.com">
+
+<img src="https://img.shields.io/badge/EMAIL-00D9FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=061B2E"/>
+
+</a>
+
+<a href="https://github.com/Shreya22062004">
+
+<img src="https://img.shields.io/badge/GITHUB-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=061B2E"/>
+
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<h3>💙 Building today for a smarter tomorrow.</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=061B2E&height=100&section=footer"/>
+
 </div>
