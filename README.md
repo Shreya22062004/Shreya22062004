@@ -38,7 +38,7 @@
 | Role | Organization | Key Work |
 |---|---|---|
 | **Generative AI Intern** | Tata Consultancy Services (TCS) | Generative AI concepts, LLMs, RAG, LangChain & AI-based workflows |
-| **PAC Advisory** | Advisory Launchpad Program | Data Engineering concepts, modern data systems, Python & Generative AI |
+| **PwC Advisory** | Advisory Launchpad Program | Data Engineering concepts, modern data systems, Python & Generative AI |
 
 ---
 
